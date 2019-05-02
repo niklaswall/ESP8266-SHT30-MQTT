@@ -11,3 +11,6 @@
   ## Cofiguration
 
   All configurable settings can be adjusted in th setup.h file before building.
+  
+  ## Read more
+  Please visit my project page at https://faulty.cloud/projects/ESP8266-SHT30-MQTT for more details.
